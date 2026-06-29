@@ -1,8 +1,7 @@
 # teachable-machine
 to identify the different objects
+this is master readme
 
-this is branch1 readme
-    
 
 
 
